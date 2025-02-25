@@ -2,7 +2,7 @@
 name: New feature
 about: A new task to be implemented
 title: ''
-labels: ''
+labels: enhancement:)))
 assignees: ''
 
 ---
